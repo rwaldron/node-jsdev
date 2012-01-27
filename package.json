@@ -1,11 +1,11 @@
 {
    "name":"JSDev",
    "description":"JSDev is a simple JavaScript preprocessor. It implements a tiny macro language that is written in the form of tagged comments. These comments are normally ignored, and will be removed by JSMin. But JSDev will activate these comments, replacing them with executable forms that can be used to do debugging, testing, logging, or tracing. JSDev scans a source looking for and replacing patterns. A pattern is a slashstar comment containing a tag and some stuff, and optionally a condition wrapped in parens. There must be no space between the slashstar and the <tag>.",
-   "version":"0.0.1",
+   "version":"0.0.6",
    "homepage":"https://github.com/douglascrockford/JSDev",
-   "repository":"git://github.com/rwldrn/jsdev.git",
+   "repository":"git://github.com/rwldrn/node-jsdev.git",
    "author":"Douglas Crockford",
-   "main":"./index.js",
+   "main":"index.js",
 
    "engines":{
       "node":">= 0.4.0"
