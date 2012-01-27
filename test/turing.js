@@ -1,8 +1,8 @@
 var fs = require("fs"),
-		color = require("colors"),
-		jsdev = require("JSDev"),
-		input = fs.readFileSync("input.js", "UTF-8"),
-		trace, output;
+	color = require("colors"),
+	jsdev = require("JSDev"),
+	input = fs.readFileSync("input.js", "UTF-8"),
+	trace, output;
 
 
 output = jsdev(input, [
