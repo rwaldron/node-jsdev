@@ -1,3 +1,0 @@
-[submodule "lib/jsdev"]
-	path = lib/jsdev
-	url = git://github.com/douglascrockford/JSDev.git
