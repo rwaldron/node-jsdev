@@ -4,6 +4,7 @@ var fs = require("fs"),
 	input = fs.readFileSync("input.js", "UTF-8"),
 	trace, output;
 
+console.log( jsdev );
 
 output = jsdev(input, [
 	"test_expose",

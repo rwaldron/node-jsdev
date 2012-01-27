@@ -497,3 +497,5 @@ function JSDEV(source, tags, comments) {
     process();
     return outputs.join('');
 }
+
+module.exports = JSDEV;
