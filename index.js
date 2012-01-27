@@ -1,1 +1,1 @@
-module.exports = require("./lib/jsdev");
+module.exports = require("./lib/exports-jsdev");
