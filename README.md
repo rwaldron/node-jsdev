@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rwldrn/node-jsdev.png)](http://travis-ci.org/rwldrn/node-jsdev)
 JSDev, A JavaScript Development Tool
 
 
